@@ -1,12 +1,10 @@
 ---
 ---
 
+@import "{{ site.theme }}";
 h1 {
   color: rgba(255, 25, 255, 0.81);
 }
-@import "{{ site.theme }}";
-
 h2 {
   color: rgba(255, 86, 255, 0.81)
 }
-
