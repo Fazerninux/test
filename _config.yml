@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title : le super titre
 description : en vrai pas top
-show_downloads: true 
+show_downloads: false 
