@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-h1 {
+.main-content h1 {
   color: rgba(255, 25, 255, 0.81);
 }
 h2 {
